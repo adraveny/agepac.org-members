@@ -6,7 +6,6 @@ use Drobee\NovaSluggable\Slug;
 use Drobee\NovaSluggable\SluggableText;
 use Illuminate\Http\Request;
 use Laravel\Nova\Fields\ID;
-use Laravel\Nova\Http\Requests\NovaRequest;
 
 class Channel extends Resource
 {
